@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 model = pickle.load(open("model.pkl", "rb"))
 scaler = pickle.load(open("scaler.pkl", "rb"))
 
-st.title("Breast Cancer Predictor 🩺")
+st.title("Drishti: Breast Cancer Predictor 🩺")
 st.write("AI-powered diagnostic assistant")
 
 # Input fields (30 features simplified)
