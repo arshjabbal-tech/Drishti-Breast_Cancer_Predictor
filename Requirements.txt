@@ -4,3 +4,4 @@ Pandas
 Scikit-learn
 Pickle
 Streamlit
+Plotly
